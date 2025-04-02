@@ -4,6 +4,15 @@
         <TargetFramework>net9.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <PackageProjectUrl>https://github.com/mxritzdev/Argumenty</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/mxritzdev/Argumenty</RepositoryUrl>
+        <Version>1.0.0</Version>
+        <IsPackable>true</IsPackable>
+
+        <Title>Argumenty</Title>
+        <Authors>mxritzdev</Authors>
+        <Description>A simple argument mapper for your string[] args</Description>
+        <PackageTags>console arguments mapper</PackageTags>
     </PropertyGroup>
 
 </Project>
