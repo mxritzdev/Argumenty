@@ -16,3 +16,5 @@ YourClass(File: "input.txt", Verbose: true)
 ```
 
 ### Example code will follow soon
+
+_this package is currently being published to nuget_
